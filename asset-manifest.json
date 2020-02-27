@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/opyn-position-monitor/static/css/main.b376de7d.chunk.css",
-    "main.js": "/opyn-position-monitor/static/js/main.acb0222b.chunk.js",
-    "main.js.map": "/opyn-position-monitor/static/js/main.acb0222b.chunk.js.map",
-    "runtime-main.js": "/opyn-position-monitor/static/js/runtime-main.6d29bc1d.js",
-    "runtime-main.js.map": "/opyn-position-monitor/static/js/runtime-main.6d29bc1d.js.map",
-    "static/js/2.2c114564.chunk.js": "/opyn-position-monitor/static/js/2.2c114564.chunk.js",
-    "static/js/2.2c114564.chunk.js.map": "/opyn-position-monitor/static/js/2.2c114564.chunk.js.map",
-    "index.html": "/opyn-position-monitor/index.html",
-    "precache-manifest.9199fa32453a7f57833356ebafad6a72.js": "/opyn-position-monitor/precache-manifest.9199fa32453a7f57833356ebafad6a72.js",
-    "service-worker.js": "/opyn-position-monitor/service-worker.js",
-    "static/css/main.b376de7d.chunk.css.map": "/opyn-position-monitor/static/css/main.b376de7d.chunk.css.map",
-    "static/js/2.2c114564.chunk.js.LICENSE.txt": "/opyn-position-monitor/static/js/2.2c114564.chunk.js.LICENSE.txt"
+    "main.css": "/opyn-liquidator/static/css/main.b376de7d.chunk.css",
+    "main.js": "/opyn-liquidator/static/js/main.326c2523.chunk.js",
+    "main.js.map": "/opyn-liquidator/static/js/main.326c2523.chunk.js.map",
+    "runtime-main.js": "/opyn-liquidator/static/js/runtime-main.784a42f0.js",
+    "runtime-main.js.map": "/opyn-liquidator/static/js/runtime-main.784a42f0.js.map",
+    "static/js/2.a7457b68.chunk.js": "/opyn-liquidator/static/js/2.a7457b68.chunk.js",
+    "static/js/2.a7457b68.chunk.js.map": "/opyn-liquidator/static/js/2.a7457b68.chunk.js.map",
+    "index.html": "/opyn-liquidator/index.html",
+    "precache-manifest.a567b052f0d937804d19e89896552228.js": "/opyn-liquidator/precache-manifest.a567b052f0d937804d19e89896552228.js",
+    "service-worker.js": "/opyn-liquidator/service-worker.js",
+    "static/css/main.b376de7d.chunk.css.map": "/opyn-liquidator/static/css/main.b376de7d.chunk.css.map",
+    "static/js/2.a7457b68.chunk.js.LICENSE.txt": "/opyn-liquidator/static/js/2.a7457b68.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d29bc1d.js",
-    "static/js/2.2c114564.chunk.js",
+    "static/js/runtime-main.784a42f0.js",
+    "static/js/2.a7457b68.chunk.js",
     "static/css/main.b376de7d.chunk.css",
-    "static/js/main.acb0222b.chunk.js"
+    "static/js/main.326c2523.chunk.js"
   ]
 }
