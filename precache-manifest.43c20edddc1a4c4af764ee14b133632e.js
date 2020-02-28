@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fa3725d3bab8d558d466b3812bdb5ad3",
+    "revision": "78e054a80a9f15d2b528e42fa6791d52",
     "url": "/opyn-liquidator/index.html"
   },
   {
