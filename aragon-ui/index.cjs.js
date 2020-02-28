@@ -23785,10 +23785,8 @@ var HANDLE_SIZE = 24;
 var HANDLE_SHADOW_MARGIN = 15;
 var PADDING = 5;
 var MIN_WIDTH$1 = HANDLE_SIZE * 10;
-var HEIGHT$2 = Math.max(HANDLE_SIZE, BAR_HEIGHT$1) + PADDING * 2; // The check on window.DOMRect is needed for the JSDOM environment, which has
-// window but not window.DOMRect. JSDOM is used by default in Jest.
-
-var DEFAULT_RECT = typeof window === 'undefined' || typeof window.DOMRect !== 'function' ? {
+var HEIGHT$2 = Math.max(HANDLE_SIZE, BAR_HEIGHT$1) + PADDING * 2;
+var DEFAULT_RECT = typeof window === 'undefined' ? {
   x: 0,
   y: 0,
   width: 0,
