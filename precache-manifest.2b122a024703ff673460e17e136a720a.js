@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b799be26748208493a03e9de9b4cf74e",
+    "revision": "d5045c5e2a658c5469946db3025eccba",
     "url": "/opyn-liquidator/index.html"
   },
   {
-    "revision": "eed39c796eec213174ee",
+    "revision": "590f004c00142be1ef05",
     "url": "/opyn-liquidator/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/opyn-liquidator/static/js/2.5ea4b0a2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eed39c796eec213174ee",
-    "url": "/opyn-liquidator/static/js/main.b6ed9f84.chunk.js"
+    "revision": "590f004c00142be1ef05",
+    "url": "/opyn-liquidator/static/js/main.d416d550.chunk.js"
   },
   {
     "revision": "afdb9c46cd42f1e50681",
