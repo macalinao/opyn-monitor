@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/opyn-liquidator/precache-manifest.43c20edddc1a4c4af764ee14b133632e.js"
+  "/opyn-liquidator/precache-manifest.9d29326b8f633222243326af42e38621.js"
 );
 
 self.addEventListener('message', (event) => {
