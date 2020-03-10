@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/opyn-liquidator/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/opyn-liquidator/static/js/main.680607ab.chunk.js",
-    "main.js.map": "/opyn-liquidator/static/js/main.680607ab.chunk.js.map",
+    "main.js": "/opyn-liquidator/static/js/main.dbff0aea.chunk.js",
+    "main.js.map": "/opyn-liquidator/static/js/main.dbff0aea.chunk.js.map",
     "runtime-main.js": "/opyn-liquidator/static/js/runtime-main.784a42f0.js",
     "runtime-main.js.map": "/opyn-liquidator/static/js/runtime-main.784a42f0.js.map",
-    "static/js/2.d68f8aa2.chunk.js": "/opyn-liquidator/static/js/2.d68f8aa2.chunk.js",
-    "static/js/2.d68f8aa2.chunk.js.map": "/opyn-liquidator/static/js/2.d68f8aa2.chunk.js.map",
+    "static/js/2.b55b7fa9.chunk.js": "/opyn-liquidator/static/js/2.b55b7fa9.chunk.js",
+    "static/js/2.b55b7fa9.chunk.js.map": "/opyn-liquidator/static/js/2.b55b7fa9.chunk.js.map",
     "index.html": "/opyn-liquidator/index.html",
-    "precache-manifest.f19f4de489ff7e66085521bff6bb00a8.js": "/opyn-liquidator/precache-manifest.f19f4de489ff7e66085521bff6bb00a8.js",
+    "precache-manifest.67b1509c254595e1441ceeba2600241f.js": "/opyn-liquidator/precache-manifest.67b1509c254595e1441ceeba2600241f.js",
     "service-worker.js": "/opyn-liquidator/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/opyn-liquidator/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.d68f8aa2.chunk.js.LICENSE.txt": "/opyn-liquidator/static/js/2.d68f8aa2.chunk.js.LICENSE.txt"
+    "static/js/2.b55b7fa9.chunk.js.LICENSE.txt": "/opyn-liquidator/static/js/2.b55b7fa9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.784a42f0.js",
-    "static/js/2.d68f8aa2.chunk.js",
+    "static/js/2.b55b7fa9.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.680607ab.chunk.js"
+    "static/js/main.dbff0aea.chunk.js"
   ]
 }
